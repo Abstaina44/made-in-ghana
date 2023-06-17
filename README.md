@@ -86,7 +86,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Viola Adams](https://www.linkedin.com/in/viola-adams/) - Digital Forensic Analyst
 </details>
 
-
+- [ Ephraim Abstaina ] ( https://www.linkedin.com/in/ephraim-a-1a8204a8/) - Blockchain Developer-Solidity.
 <details open>
  <summary><h1>Data Science</h1></summary>
  
